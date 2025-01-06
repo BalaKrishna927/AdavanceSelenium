@@ -1,5 +1,0 @@
-#Data
-#Sat Nov 30 07:35:19 IST 2024
-password=secret_sauce
-url=https\://www.saucedemo.com/v1/
-username=standard_user
